@@ -1,0 +1,15 @@
+; AmbiboxEffects.def : Declares the module parameters for the DLL.
+
+LIBRARY
+
+EXPORTS
+SIR_GetName
+SIR_GetVersion
+SIR_GetDescription
+SIR_Init
+SIR_UnInit
+SIR_Start
+SIR_Stop
+SIR_ShowSettings
+SIR_SetBacklightSettings
+SIR_SaveSettings
