@@ -1,0 +1,2 @@
+# Peacock
+ Ambibox backlight plugin
